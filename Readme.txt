@@ -1,2 +1,2 @@
 this is a Git -Repo for AutoMobile-Servicing Application.
-this is a README fILE
+Please refer to other repository's instruction(https://github.com/mash1408/Autotech-Demo-Winform-App.git) For downloading this app
